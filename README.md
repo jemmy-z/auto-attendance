@@ -1,5 +1,8 @@
 # auto-attendance
 
+## Set-up
+- To use this form, you must install [Selenium](https://selenium-python.readthedocs.io/index.html). You can do that buy running `pip install selenium`
+
 ## Requirements
 - The form must be a Google Form. There can only be only short-text input blank. **More options coming soon!**
 - You must have Chrome v75 installed.
