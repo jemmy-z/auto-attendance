@@ -6,4 +6,4 @@
 - The emails in the .csv file must be in the first column, one email per row.
 
 ## Instructions
-To auto-upload your attendance, run `python upload.py <form url> <attendance.csv>`.
+To auto-upload your attendance, run `python3 upload.py <form url> <attendance.csv>`.
